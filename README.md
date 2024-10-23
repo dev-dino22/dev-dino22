@@ -25,7 +25,7 @@
 <h1>🔗 Links </h1>
 
 **개인 블로그 |**
-https://velog.io/@dev-dino22/
+https://blog.naver.com/myhaema
 
 <br>
 <br>
