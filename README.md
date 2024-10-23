@@ -25,9 +25,8 @@
 <h1>🔗 Links </h1>
 
 **개인 블로그 |**
-https://blog.naver.com/myhaema
-<br>
-(벨로그로 곧 이전할 계획입니다)
+https://velog.io/@dev-dino22/
+
 <br>
 <br>
 **개인 포트폴리오 사이트 (제작 중...) |**
