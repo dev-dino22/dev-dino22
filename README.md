@@ -24,12 +24,12 @@
 
 <h1>🔗 Links </h1>
 
-**개인 블로그 |**
+(이전 중...) **개인 블로그 |**
 https://blog.naver.com/myhaema
-
+-> https://velog.io/@dev-dino22/
 <br>
 <br>
-**개인 포트폴리오 사이트 (제작 중...) |**
+(제작 중...) **개인 포트폴리오 사이트 |**
 https://nayoungfolio.mycafe24.com/
 <br>
 (Next.js로 아직 작성 중인 미완성 사이트입니다)
