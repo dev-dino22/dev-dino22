@@ -1,11 +1,11 @@
 <div align="center">
-<h1>👋 Hi there! </h1>
+<h2>👋 Hi there! </h2>
 
 프론트엔드 개발자로 성장하고 싶은 그래픽 디자이너 **진나영**입니다!
 
 <br><br><br>
 
-<h1>👩🏻‍💻 My Skills </h1>
+<h2>👩🏻‍💻 My Skills </h2>
 
 
 **✨Graphic**<br><br>
@@ -22,7 +22,7 @@
 
 <br><br><br>
 
-<h1>🔗 Links </h1>
+<h2>🔗 Links </h2>
 
 **개인 블로그 |**
 https://velog.io/@dev-dino22/
@@ -36,10 +36,19 @@ https://nayoungfolio.mycafe24.com/
 <br>
 <br>
 <br>
-<h1>💻 Works </h1>
+<h2>💻 Works </h2>
 
 
 **2022.10 ~ :** 프리랜서 그래픽 디자이너 재직 중<br>
 **2023.10 ~ 11 :** KB CIB 플랫폼부 데이터 시각화 UIUX 디자인 및 프로토타입 제작<br>
 **2023.08 ~ 2024.02 :** React Native 촬영 및 편집 기능 프론트엔드 개발 파트
+**2024.05 ~ 2025.01 :** SALLY SOHN 영상 디자이너
+
+<br>
+<br>
+<br>
+<h2>✏️ Education </h2>
+
+**2025.02 ~ :** 우아한테크코스 7기 웹프론트엔드 수료중...<br>
+
 </div>
