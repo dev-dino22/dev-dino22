@@ -1,17 +1,11 @@
 <div align="center">
 <h2>👋 Hi there! </h2>
 
-프론트엔드 개발자로 성장하고 싶은 그래픽 디자이너 **진나영**입니다!
+프론트엔드 개발자 **진나영**입니다!
 
 <br><br><br>
 
 <h2>👩🏻‍💻 My Skills </h2>
-
-
-**✨Graphic**<br><br>
-
-[![My Skills](https://skillicons.dev/icons?i=ae,au,pr,ps,ai,figma)](https://skillicons.dev)
-<br><br>
 
 **🛠️ Dev**<br>
 
@@ -20,21 +14,19 @@
 
 
 
-<br><br><br>
+
+**✨Graphic**<br>
+
+[![My Skills](https://skillicons.dev/icons?i=ae,au,pr,ps,ai,figma)](https://skillicons.dev)
+<br><br>
+
 
 <h2>🔗 Links </h2>
 
 **개인 블로그 |**
 https://velog.io/@dev-dino22/
 <br>
-<br>
-(제작 중...) **개인 포트폴리오 사이트 |**
-https://nayoungfolio.mycafe24.com/
-<br>
-(아직 작성 중인 미완성 사이트입니다)
 
-<br>
-<br>
 <br>
 <h2>💻 Works </h2>
 
